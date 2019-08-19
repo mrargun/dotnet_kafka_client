@@ -79,4 +79,4 @@ All you need is to install Confluent.Kafka from NuGet Package Manager.
                 }
 
 
-Before running the project, make sure that ZooKeeper instance is up and running and Kafka server is started
+Before running the project, make sure that ZooKeeper instance is up and running and Kafka server is started!
