@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\DotNetKafkaClient\Consumer\bin\Debug\netcoreapp2.2\Consumer.deps.json
+C:\Users\Administrator\source\repos\DotNetKafkaClient\Consumer\bin\Debug\netcoreapp2.2\Consumer.runtimeconfig.json
+C:\Users\Administrator\source\repos\DotNetKafkaClient\Consumer\bin\Debug\netcoreapp2.2\Consumer.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DotNetKafkaClient\Consumer\bin\Debug\netcoreapp2.2\Consumer.dll
+C:\Users\Administrator\source\repos\DotNetKafkaClient\Consumer\obj\Debug\netcoreapp2.2\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DotNetKafkaClient\Consumer\obj\Debug\netcoreapp2.2\Consumer.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetKafkaClient\Consumer\obj\Debug\netcoreapp2.2\Consumer.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetKafkaClient\Consumer\bin\Debug\netcoreapp2.2\Consumer.pdb
+C:\Users\Administrator\source\repos\DotNetKafkaClient\Consumer\obj\Debug\netcoreapp2.2\Consumer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DotNetKafkaClient\Consumer\obj\Debug\netcoreapp2.2\Consumer.dll
+C:\Users\Administrator\source\repos\DotNetKafkaClient\Consumer\obj\Debug\netcoreapp2.2\Consumer.pdb
