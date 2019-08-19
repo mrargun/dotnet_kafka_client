@@ -3,6 +3,8 @@ Basic Consumer and Producer example by using Confluent's Kafka client for .Net
 
 All you need is to install Confluent.Kafka from NuGet Package Manager.
 
+Then, make sure that ZooKeeper instance is up and running and Kafka server is started
+
 - Basic Producer
 
 
