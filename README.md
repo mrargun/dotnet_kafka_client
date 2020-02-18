@@ -1,4 +1,4 @@
-# dotnet_kafka_client
+# dotnet-kafka-client
 Basic Consumer and Producer example by using Confluent's Kafka client for .Net
 
 All you need is to install Confluent.Kafka from NuGet Package Manager.
